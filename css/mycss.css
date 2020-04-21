@@ -1,0 +1,41 @@
+.description {
+  font-family: 'Work Sans', 'sans-serif';
+  font-size: medium;
+  color: black;
+  font-style: normal;
+  margin: auto;
+}
+
+.subtitle {
+  font-family: 'Source Sans Pro', 'sans-serif';
+  font-style: italic;
+  color: gray;
+  font-size: large;
+  margin-bottom: auto;
+}
+
+.title {
+  font-family: 'Noto Serif', 'sans-serif';
+  font-style: normal;
+  color: darkslategrey;
+  font-size: larger;
+}
+
+.header {
+  font-family: Open Sans, sans-serif;
+  font-style: normal;
+  font-size: xx-large;
+}
+.date {
+  font-family: Work Sans, sans-serif;
+  color: lightsteelblue;
+  font-size: medium;
+  font-style: italic;
+}
+
+.brand {
+  font-family: Lexend Deca, sans-serif;
+  color: darkcyan;
+  font-size: large;
+  font-style: normal;
+}
